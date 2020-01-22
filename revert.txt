@@ -1,8 +1,11 @@
 test 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 test 2
 
 test 3
+=======
+>>>>>>> parent of 42d5db3... revert file
 =======
 >>>>>>> parent of 42d5db3... revert file
